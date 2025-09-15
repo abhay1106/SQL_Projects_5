@@ -146,7 +146,7 @@ Result:
 | 124          | Chicago  |
 | 167          | Boston   |
 
-### ** Task 5 - List out First Name, Last Name, Salary, Commission for all Employees**
+### **Task 5 - List out First Name, Last Name, Salary, Commission for all Employees**
 ```sql
 SELECT First_Name, Last_Name, Salary, Comm FROM Employee;
 ```
